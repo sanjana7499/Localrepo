@@ -1,1 +1,1 @@
-<p>This is my local repo.<p>
+THIS IS MY LOCAL REPO.
